@@ -1,16 +1,36 @@
-## Hi there 👋
+AI & Language Portfolio
 
-<!--
-**modeh688/modeh688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my professional portfolio.
 
-Here are some ideas to get you started:
+This repository showcases my work and ongoing development in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI training
+- Swahili–English translation
+- Data annotation
+- Transcription
+- Data entry
+- Technical documentation
+
+## About Me
+
+I am a freelance AI and language specialist with experience in data annotation, translation, transcription, and AI training projects. I am committed to delivering accurate, high-quality work while continuously improving my skills.
+
+## Skills
+
+- Swahili ↔ English Translation
+- AI Data Annotation
+- Audio & Text Transcription
+- Data Entry
+- Quality Assurance
+- Research
+
+## Repository Contents
+
+- Portfolio samples
+- Documentation
+- Project examples
+- Learning resources
+
+## Contact
+
+Feel free to connect with me through my professional profiles.
